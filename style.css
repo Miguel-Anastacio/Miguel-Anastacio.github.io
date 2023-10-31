@@ -111,7 +111,7 @@ p{
     /* Remove underline for links */
 }
 
-.itch-button:hover {
+.icon-button:hover {
     background-color: #d55600;
     /* Change background color on hover */
 }

@@ -63,7 +63,7 @@ p{
 .fa-twitter:hover,
 .fa-linkedin:hover,
 .fa-twitch:hover {
-    color: #008000;
+    color: #010c24a9;
 }
 
 .fab {
@@ -97,7 +97,7 @@ p{
 
 /* set buttons for github and itch appearance*/
 .icon-button {
-    background-color: #f26722;
+    background-color: #413f3f;
     /* Set the background color */
     color: #fff;
     /* Set the text color */
@@ -109,9 +109,10 @@ p{
     /* Add rounded corners */
     text-decoration: none;
     /* Remove underline for links */
+    font-size: 12px;
 }
 
 .icon-button:hover {
-    background-color: #d55600;
+    background-color: #010c24a9;
     /* Change background color on hover */
 }

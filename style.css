@@ -95,3 +95,23 @@ p{
     padding-bottom: 4rem;
 }
 
+/* set buttons for github and itch appearance*/
+.icon-button {
+    background-color: #f26722;
+    /* Set the background color */
+    color: #fff;
+    /* Set the text color */
+    padding: 10px 20px;
+    /* Adjust padding for spacing */
+    border: none;
+    /* Remove the default button border */
+    border-radius: 5px;
+    /* Add rounded corners */
+    text-decoration: none;
+    /* Remove underline for links */
+}
+
+.itch-button:hover {
+    background-color: #d55600;
+    /* Change background color on hover */
+}

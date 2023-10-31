@@ -62,8 +62,9 @@ p{
 .fa-instagram:hover,
 .fa-twitter:hover,
 .fa-linkedin:hover,
-.fa-twitch:hover {
-    color: #010c24a9;
+.fa-twitch:hover,
+.fa-github:hover{
+    color: #04205ca9;
 }
 
 .fab {
@@ -72,7 +73,7 @@ p{
 
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: #9e9e9e;
     text-align: center;
 }
 
@@ -109,11 +110,11 @@ p{
     /* Add rounded corners */
     text-decoration: none;
     /* Remove underline for links */
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .icon-button:hover {
-    background-color: #010c24a9;
+    background-color: #04205ca9;
     /* Change background color on hover */
     color: #fff;
 }

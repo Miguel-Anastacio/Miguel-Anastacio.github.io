@@ -118,3 +118,36 @@ p{
     /* Change background color on hover */
     color: #fff;
 }
+
+.title{
+    text-align: center;
+        /* Center-align the text */
+    /*color: blue;
+        /* Text color */
+    font-size: 30px;
+        /* Font size */
+    font-weight: bold;
+        /* Font weight (bold) */
+}
+
+.Portfolio{
+    text-align: center;
+        /* Center-align the text */
+        /*color: blue;
+            /* Text color */
+    font-size: 39px;
+        /* Font size */
+    font-weight: bold;
+        /* Font weight (bold) */
+}
+
+.card-title {
+    /*text-align: center;
+    /* Center-align the text */
+    /*color: blue;
+        /* Text color */
+    font-size: 26px;
+    /* Font size */
+    /*font-weight: bold;
+    /* Font weight (bold) */
+}

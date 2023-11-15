@@ -24,15 +24,10 @@
     color: white;
 }
 
-/* about section image css */
-.imageAboutPage {
-    padding-left: 80px;
-
-}
 
 .navbar {
     background-color: black;
-
+    
 }
 
 .nav-item{
@@ -121,33 +116,51 @@ p{
 
 .title{
     text-align: center;
-        /* Center-align the text */
+    /* Center-align the text */
     /*color: blue;
-        /* Text color */
+    /* Text color */
     font-size: 30px;
-        /* Font size */
+    /* Font size */
     font-weight: bold;
-        /* Font weight (bold) */
+    /* Font weight (bold) */
 }
 
 .Portfolio{
     text-align: center;
-        /* Center-align the text */
-        /*color: blue;
-            /* Text color */
+    /* Center-align the text */
+    /*color: blue;
+    /* Text color */
     font-size: 39px;
-        /* Font size */
+    /* Font size */
     font-weight: bold;
-        /* Font weight (bold) */
+    /* Font weight (bold) */
 }
 
 .card-title {
     /*text-align: center;
     /* Center-align the text */
     /*color: blue;
-        /* Text color */
+    /* Text color */
     font-size: 26px;
     /* Font size */
     /*font-weight: bold;
     /* Font weight (bold) */
+}
+
+/* about section image css */
+.imageAboutPage {
+    margin-left: 20%;
+    border: 2px solid #333;
+    width: 60%;
+    /* Set width to 50% of the parent container */
+    height: auto;
+    /* Maintain aspect ratio */
+        /* Add a border */
+}
+.about-text
+{
+    text-align: justify; 
+    /* padding-left: -100px; */
+    font-size: 18px;
+    /* color:red; */
 }

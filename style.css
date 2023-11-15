@@ -149,9 +149,10 @@ p{
 
 /* about section image css */
 .imageAboutPage {
-    margin-left: 20%;
-    border: 2px solid #333;
-    width: 60%;
+    margin-left: -10%;
+    margin-top: -2%;
+    border: 1px solid #333;
+    width: 80%;
     /* Set width to 50% of the parent container */
     height: auto;
     /* Maintain aspect ratio */
@@ -159,8 +160,10 @@ p{
 }
 .about-text
 {
+    margin-left: -8%;
+    margin-top:  -5%;
     text-align: justify; 
     /* padding-left: -100px; */
-    font-size: 18px;
+    font-size: 19px;
     /* color:red; */
 }

@@ -30,12 +30,16 @@
     
 }
 
-.nav-item{
-    color: blue;
+.nav-item a{
+    color: rgb(247, 247, 247);
 }
 
 p{
-    justify-content:left;
+    justify-content:left;      
+}
+
+.navbar-brand{
+    color: rgb(247, 247, 247);
 }
 
 /* display background color black on navbar scroll */

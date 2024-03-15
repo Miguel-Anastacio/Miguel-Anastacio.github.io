@@ -119,7 +119,7 @@ p{
 }
 
 .title{
-    text-align: center;
+    text-align: left;
     /* Center-align the text */
     /*color: blue;
     /* Text color */
@@ -134,9 +134,10 @@ p{
     /* Center-align the text */
     /*color: blue;
     /* Text color */
-    font-size: 39px;
+    font-size: 45px;
     /* Font size */
     font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
     /* Font weight (bold) */
 }
 
